@@ -22,6 +22,3 @@ function lss_theme_create_page() {
 	//generation of our admin page
 }
 
-function lss_theme_create_page() {
-	require_once( get_template_directory() . '/inc/templates/sunset-admin.php' );
-}
